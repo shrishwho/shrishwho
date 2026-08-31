@@ -2,8 +2,8 @@
 I’m a third‑year Computer Science student at Parul University, <br>passionate about building real‑world software projects.<br><br> Learning MERN stack, Data Structures & Algorithms, <br>and competitive programming<br> Skilled in C, C++, Java, Python, and web technologies<br>Practicing on LeetCode and Codeforces to strengthen<br> problem‑solving<br>Open to collaborations, internships, and hackathons<br>My goal is to turn ideas into impactful products while <br>growing as a developer.
 
 
-## 🌐 Socials:
-[(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][LinkedIn](https://www.linkedin.com/in/shristi-nayak-956b002b6/)(mailto:shristinayak99@gmail.com) 
+## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shristi-nayak-956b002b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shristinayak99@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
